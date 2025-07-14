@@ -1,0 +1,26 @@
+{
+    "name": "Hatchet",
+    "hash": "0xF9DCBF2D",
+    "recoil": {
+        "vertical": 0.0,
+        "horizontal": 0.0,
+        "pattern": []
+    },
+    "damage": {
+        "head": 110,
+        "chest": 90,
+        "stomach": 85,
+        "arms": 75,
+        "legs": 70
+    },
+    "ammo": {
+        "magazine_size": 1,
+        "max_ammo": 1,
+        "reload_time": 0.0
+    },
+    "distance_falloff": {
+        "min_distance": 0.7,
+        "max_distance": 2.0,
+        "falloff_rate": 0.8
+    }
+}

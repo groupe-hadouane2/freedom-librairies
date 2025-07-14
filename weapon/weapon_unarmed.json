@@ -1,0 +1,26 @@
+{
+    "name": "Fist",
+    "hash": "0xA2719263",
+    "recoil": {
+        "vertical": 0.0,
+        "horizontal": 0.0,
+        "pattern": []
+    },
+    "damage": {
+        "head": 40,
+        "chest": 25,
+        "stomach": 20,
+        "arms": 15,
+        "legs": 10
+    },
+    "ammo": {
+        "magazine_size": 1,
+        "max_ammo": 1,
+        "reload_time": 0.0
+    },
+    "distance_falloff": {
+        "min_distance": 0.3,
+        "max_distance": 1.0,
+        "falloff_rate": 1.0
+    }
+}
