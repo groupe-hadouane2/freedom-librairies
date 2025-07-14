@@ -1,0 +1,26 @@
+{
+    "name": "SNS Pistol",
+    "hash": "0xBFD21232",
+    "recoil": {
+        "vertical": 0.5,
+        "horizontal": 0.25,
+        "pattern": [0.0, 0.2, 0.3, 0.2, 0.0, -0.15, 0.15, 0.0, -0.1, 0.05]
+    },
+    "damage": {
+        "head": 75,
+        "chest": 28,
+        "stomach": 25,
+        "arms": 18,
+        "legs": 14
+    },
+    "ammo": {
+        "magazine_size": 6,
+        "max_ammo": 250,
+        "reload_time": 1.5
+    },
+    "distance_falloff": {
+        "min_distance": 3.0,
+        "max_distance": 35.0,
+        "falloff_rate": 0.8
+    }
+}

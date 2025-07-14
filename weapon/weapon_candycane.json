@@ -1,0 +1,26 @@
+{
+    "name": "Candy Cane",
+    "hash": "0x6589186A",
+    "recoil": {
+        "vertical": 0.0,
+        "horizontal": 0.0,
+        "pattern": []
+    },
+    "damage": {
+        "head": 45,
+        "chest": 30,
+        "stomach": 25,
+        "arms": 20,
+        "legs": 15
+    },
+    "ammo": {
+        "magazine_size": 1,
+        "max_ammo": 1,
+        "reload_time": 0.0
+    },
+    "distance_falloff": {
+        "min_distance": 0.5,
+        "max_distance": 1.5,
+        "falloff_rate": 0.9
+    }
+}

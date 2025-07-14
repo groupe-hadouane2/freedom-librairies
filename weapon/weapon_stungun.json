@@ -1,0 +1,26 @@
+{
+    "name": "Stun Gun",
+    "hash": "0x3656C8C1",
+    "recoil": {
+        "vertical": 0.1,
+        "horizontal": 0.05,
+        "pattern": [0.0, 0.02, 0.0, -0.02, 0.0]
+    },
+    "damage": {
+        "head": 10,
+        "chest": 8,
+        "stomach": 8,
+        "arms": 6,
+        "legs": 6
+    },
+    "ammo": {
+        "magazine_size": 1,
+        "max_ammo": 50,
+        "reload_time": 2.0
+    },
+    "distance_falloff": {
+        "min_distance": 1.0,
+        "max_distance": 8.0,
+        "falloff_rate": 0.9
+    }
+}

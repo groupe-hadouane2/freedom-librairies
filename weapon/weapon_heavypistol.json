@@ -1,0 +1,26 @@
+{
+    "name": "Heavy Pistol",
+    "hash": "0xD205520E",
+    "recoil": {
+        "vertical": 0.6,
+        "horizontal": 0.28,
+        "pattern": [0.0, 0.25, 0.4, 0.25, 0.0, -0.18, 0.18, 0.0, -0.15, 0.08]
+    },
+    "damage": {
+        "head": 110,
+        "chest": 48,
+        "stomach": 43,
+        "arms": 30,
+        "legs": 24
+    },
+    "ammo": {
+        "magazine_size": 18,
+        "max_ammo": 250,
+        "reload_time": 2.0
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 65.0,
+        "falloff_rate": 0.6
+    }
+}

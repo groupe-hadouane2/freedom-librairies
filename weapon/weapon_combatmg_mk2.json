@@ -1,0 +1,43 @@
+{
+    "name": "Combat MG Mk II",
+    "hash": "0xDBBD7280",
+    "recoil": {
+        "vertical": 0.8,
+        "horizontal": 0.5,
+        "pattern": [
+            0.0,
+            0.3,
+            0.5,
+            0.7,
+            0.8,
+            0.9,
+            1.0,
+            0.9,
+            0.7,
+            0.5,
+            0.3,
+            0.0,
+            -0.2,
+            -0.3,
+            -0.2,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 110,
+        "chest": 50,
+        "stomach": 45,
+        "arms": 35,
+        "legs": 28
+    },
+    "ammo": {
+        "magazine_size": 100,
+        "max_ammo": 300,
+        "reload_time": 4.2
+    },
+    "distance_falloff": {
+        "min_distance": 15.0,
+        "max_distance": 250.0,
+        "falloff_rate": 0.4
+    }
+}

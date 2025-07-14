@@ -1,0 +1,35 @@
+{
+    "name": "Combat Shotgun",
+    "hash": "0x5A96BA4",
+    "recoil": {
+        "vertical": 1.2,
+        "horizontal": 0.4,
+        "pattern": [
+            0.0,
+            0.8,
+            1.0,
+            0.6,
+            0.0,
+            -0.3,
+            0.2,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 200,
+        "chest": 120,
+        "stomach": 110,
+        "arms": 80,
+        "legs": 70
+    },
+    "ammo": {
+        "magazine_size": 8,
+        "max_ammo": 250,
+        "reload_time": 3.5
+    },
+    "distance_falloff": {
+        "min_distance": 2.0,
+        "max_distance": 25.0,
+        "falloff_rate": 0.9
+    }
+}

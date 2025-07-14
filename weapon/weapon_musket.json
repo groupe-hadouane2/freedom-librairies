@@ -1,0 +1,32 @@
+{
+    "name": "Musket",
+    "hash": "0xA89CB99E",
+    "recoil": {
+        "vertical": 0.3,
+        "horizontal": 0.1,
+        "pattern": [
+            0.0,
+            0.1,
+            0.0,
+            -0.1,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 50,
+        "chest": 30,
+        "stomach": 25,
+        "arms": 20,
+        "legs": 15
+    },
+    "ammo": {
+        "magazine_size": 20,
+        "max_ammo": 200,
+        "reload_time": 2.0
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 100.0,
+        "falloff_rate": 0.6
+    }
+}

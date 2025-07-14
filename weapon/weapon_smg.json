@@ -1,0 +1,26 @@
+{
+    "name": "SMG",
+    "hash": "0x2BE6766B",
+    "recoil": {
+        "vertical": 0.5,
+        "horizontal": 0.3,
+        "pattern": [0.0, 0.2, 0.3, 0.4, 0.5, 0.6, 0.5, 0.4, 0.3, 0.2, 0.0, -0.15, -0.2, -0.15, 0.0]
+    },
+    "damage": {
+        "head": 80,
+        "chest": 32,
+        "stomach": 28,
+        "arms": 20,
+        "legs": 16
+    },
+    "ammo": {
+        "magazine_size": 30,
+        "max_ammo": 300,
+        "reload_time": 2.2
+    },
+    "distance_falloff": {
+        "min_distance": 8.0,
+        "max_distance": 100.0,
+        "falloff_rate": 0.7
+    }
+}

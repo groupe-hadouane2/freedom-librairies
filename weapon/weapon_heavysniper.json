@@ -1,0 +1,35 @@
+{
+    "name": "Heavy Sniper",
+    "hash": "0x0C472FE2",
+    "recoil": {
+        "vertical": 1.5,
+        "horizontal": 0.3,
+        "pattern": [
+            0.0,
+            1.0,
+            1.2,
+            0.8,
+            0.0,
+            -0.2,
+            0.1,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 280,
+        "chest": 120,
+        "stomach": 110,
+        "arms": 80,
+        "legs": 70
+    },
+    "ammo": {
+        "magazine_size": 10,
+        "max_ammo": 250,
+        "reload_time": 3.8
+    },
+    "distance_falloff": {
+        "min_distance": 50.0,
+        "max_distance": 800.0,
+        "falloff_rate": 0.2
+    }
+}
