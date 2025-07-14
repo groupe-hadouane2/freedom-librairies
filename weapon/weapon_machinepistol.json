@@ -1,0 +1,42 @@
+{
+    "name": "Machine Pistol",
+    "hash": "0xDB1AA450",
+    "recoil": {
+        "vertical": 0.5,
+        "horizontal": 0.3,
+        "pattern": [
+            0.0,
+            0.2,
+            0.3,
+            0.4,
+            0.5,
+            0.6,
+            0.5,
+            0.4,
+            0.3,
+            0.2,
+            0.0,
+            -0.15,
+            -0.2,
+            -0.15,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 75,
+        "chest": 30,
+        "stomach": 26,
+        "arms": 18,
+        "legs": 14
+    },
+    "ammo": {
+        "magazine_size": 30,
+        "max_ammo": 300,
+        "reload_time": 2.2
+    },
+    "distance_falloff": {
+        "min_distance": 8.0,
+        "max_distance": 100.0,
+        "falloff_rate": 0.7
+    }
+}

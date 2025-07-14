@@ -1,0 +1,26 @@
+{
+    "name": "Pistol Mk II",
+    "hash": "0xBFE256D4",
+    "recoil": {
+        "vertical": 0.35,
+        "horizontal": 0.18,
+        "pattern": [0.0, 0.08, 0.15, 0.08, 0.0, -0.08, 0.08, 0.0, -0.08, 0.0]
+    },
+    "damage": {
+        "head": 90,
+        "chest": 38,
+        "stomach": 33,
+        "arms": 22,
+        "legs": 17
+    },
+    "ammo": {
+        "magazine_size": 12,
+        "max_ammo": 250,
+        "reload_time": 1.6
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 55.0,
+        "falloff_rate": 0.65
+    }
+}

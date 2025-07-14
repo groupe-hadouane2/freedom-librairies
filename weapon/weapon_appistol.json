@@ -1,0 +1,26 @@
+{
+    "name": "AP Pistol",
+    "hash": "0x22D8FE39",
+    "recoil": {
+        "vertical": 0.32,
+        "horizontal": 0.25,
+        "pattern": [0.0, 0.15, 0.22, 0.15, 0.0, -0.15, 0.15, 0.0, -0.15, 0.08]
+    },
+    "damage": {
+        "head": 92,
+        "chest": 40,
+        "stomach": 35,
+        "arms": 23,
+        "legs": 18
+    },
+    "ammo": {
+        "magazine_size": 18,
+        "max_ammo": 250,
+        "reload_time": 1.9
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 60.0,
+        "falloff_rate": 0.6
+    }
+}

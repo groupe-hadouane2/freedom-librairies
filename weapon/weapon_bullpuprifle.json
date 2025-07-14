@@ -1,0 +1,42 @@
+{
+    "name": "Bullpup Rifle",
+    "hash": "0x7F229F94",
+    "recoil": {
+        "vertical": 0.6,
+        "horizontal": 0.4,
+        "pattern": [
+            0.0,
+            0.2,
+            0.35,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            0.7,
+            0.5,
+            0.3,
+            0.1,
+            -0.1,
+            -0.2,
+            -0.1,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 95,
+        "chest": 42,
+        "stomach": 37,
+        "arms": 28,
+        "legs": 22
+    },
+    "ammo": {
+        "magazine_size": 30,
+        "max_ammo": 300,
+        "reload_time": 2.8
+    },
+    "distance_falloff": {
+        "min_distance": 10.0,
+        "max_distance": 200.0,
+        "falloff_rate": 0.5
+    }
+}

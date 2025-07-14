@@ -1,0 +1,26 @@
+{
+    "name": "SNS Pistol Mk II",
+    "hash": "0x88374054",
+    "recoil": {
+        "vertical": 0.45,
+        "horizontal": 0.22,
+        "pattern": [0.0, 0.18, 0.28, 0.18, 0.0, -0.12, 0.12, 0.0, -0.08, 0.03]
+    },
+    "damage": {
+        "head": 80,
+        "chest": 32,
+        "stomach": 28,
+        "arms": 20,
+        "legs": 16
+    },
+    "ammo": {
+        "magazine_size": 6,
+        "max_ammo": 250,
+        "reload_time": 1.4
+    },
+    "distance_falloff": {
+        "min_distance": 3.0,
+        "max_distance": 40.0,
+        "falloff_rate": 0.75
+    }
+}

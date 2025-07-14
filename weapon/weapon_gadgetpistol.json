@@ -1,0 +1,37 @@
+{
+    "name": "Perico Pistol",
+    "hash": "0x57A4368C",
+    "recoil": {
+        "vertical": 0.4,
+        "horizontal": 0.2,
+        "pattern": [
+            0.0,
+            0.1,
+            0.2,
+            0.1,
+            0.0,
+            -0.1,
+            0.1,
+            0.0,
+            -0.1,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 85,
+        "chest": 35,
+        "stomach": 30,
+        "arms": 20,
+        "legs": 15
+    },
+    "ammo": {
+        "magazine_size": 12,
+        "max_ammo": 250,
+        "reload_time": 1.8
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 50.0,
+        "falloff_rate": 0.7
+    }
+}

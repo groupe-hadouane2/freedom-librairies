@@ -1,0 +1,26 @@
+{
+    "name": "Micro SMG",
+    "hash": "0x13532244",
+    "recoil": {
+        "vertical": 0.45,
+        "horizontal": 0.35,
+        "pattern": [0.0, 0.15, 0.25, 0.35, 0.4, 0.45, 0.4, 0.35, 0.25, 0.15, 0.0, -0.1, -0.15, -0.1, 0.0]
+    },
+    "damage": {
+        "head": 70,
+        "chest": 28,
+        "stomach": 25,
+        "arms": 18,
+        "legs": 14
+    },
+    "ammo": {
+        "magazine_size": 16,
+        "max_ammo": 300,
+        "reload_time": 1.8
+    },
+    "distance_falloff": {
+        "min_distance": 5.0,
+        "max_distance": 80.0,
+        "falloff_rate": 0.75
+    }
+}

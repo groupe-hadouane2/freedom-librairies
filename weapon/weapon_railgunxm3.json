@@ -1,0 +1,32 @@
+{
+    "name": "Railgun",
+    "hash": "0xFEA23564",
+    "recoil": {
+        "vertical": 2.0,
+        "horizontal": 0.5,
+        "pattern": [
+            0.0,
+            1.5,
+            2.0,
+            1.0,
+            0.0
+        ]
+    },
+    "damage": {
+        "head": 500,
+        "chest": 500,
+        "stomach": 500,
+        "arms": 500,
+        "legs": 500
+    },
+    "ammo": {
+        "magazine_size": 1,
+        "max_ammo": 20,
+        "reload_time": 4.5
+    },
+    "distance_falloff": {
+        "min_distance": 10.0,
+        "max_distance": 300.0,
+        "falloff_rate": 0.1
+    }
+}
